@@ -28,7 +28,7 @@ class MainApp extends StatelessWidget {
                 style: TextStyle(fontSize: 50, color: Colors.blue),
               ),
             ),
-            const SizedBox(height: 20),
+            const SizedBox(height: 200),
             ElevatedButton(
               onPressed: () {},
               child: const Text("Log In"),
