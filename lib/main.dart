@@ -31,7 +31,7 @@ class MainApp extends StatelessWidget {
             const SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {},
-              child: const Text("Button"),
+              child: const Text("Log In"),
             ),
           ],
         ),
