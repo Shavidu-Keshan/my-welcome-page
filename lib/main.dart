@@ -33,7 +33,7 @@ class MainApp extends StatelessWidget {
               child: ElevatedButton(
                 onPressed: () {},
                 style: ElevatedButton.styleFrom(
-                  minimumSize: Size(300, 100),
+                  minimumSize: Size(259, 67),
                   backgroundColor: Colors.blue,
                 ),
                 child: const Text(
@@ -47,7 +47,7 @@ class MainApp extends StatelessWidget {
               child: ElevatedButton(
                 onPressed: () {},
                 style: ElevatedButton.styleFrom(
-                  minimumSize: Size(300, 100),
+                  minimumSize: Size(259, 67),
                   backgroundColor: Colors.blue,
                 ),
                 child: const Text(
