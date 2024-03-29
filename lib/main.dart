@@ -15,14 +15,14 @@ class MainApp extends StatelessWidget {
         body: Column(
           children: [
             const Padding(
-              padding: EdgeInsets.only(top: 50.0, left: 35),
+              padding: EdgeInsets.only(top: 70.0, left: 25),
               child: Text(
                 "Welcome to",
-                style: TextStyle(fontSize: 50),
+                style: TextStyle(fontSize: 50, fontFamily: 'Inter'),
               ),
             ),
             const Padding(
-              padding: EdgeInsets.only(left: 50.0),
+              padding: EdgeInsets.only(left: 40.0),
               child: Text(
                 "PrioLearn",
                 style: TextStyle(fontSize: 50, color: Colors.blue),
